@@ -1,0 +1,2 @@
+C:\Users\Učenik 10\source\repos\zadatak1ponavljanje\zadatak1ponavljanje\obj\Debug\zadatak1ponavljanje.csprojAssemblyReference.cache
+C:\Users\Učenik 10\source\repos\zadatak1ponavljanje\zadatak1ponavljanje\obj\Debug\zadatak1ponavljanje.csproj.CoreCompileInputs.cache
